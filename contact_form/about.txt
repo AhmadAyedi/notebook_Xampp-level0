@@ -1,0 +1,3 @@
+simple project 
+send name email message to the db 
+receive a message successfull
